@@ -1,1 +1,1 @@
-# V24-TK2100
+# Eksamen i Informasjonssikkerhet - 2024
